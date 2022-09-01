@@ -1,0 +1,11 @@
+<!DOCTYPE suite>
+
+<suite name="Test Automation Suite">
+	<test name="Test NINJA Feature">
+		<classes>
+
+			<class name="com.ninja.qa.testcases.HomeTest"/>
+			
+		</classes>
+	</test>
+</suite>
