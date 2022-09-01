@@ -5,6 +5,11 @@
 		<classes>
 
 			<class name="com.ninja.qa.testcases.HomeTest"/>
+			<class name="com.ninja.qa.testcases.HomeTest"/>
+			<class name="com.ninja.qa.testcases.HomeTest"/>
+			<class name="com.ninja.qa.testcases.HomeTest"/>
+			<class name="com.ninja.qa.testcases.HomeTest"/>
+			<class name="com.ninja.qa.testcases.HomeTest"/>
 			
 		</classes>
 	</test>
